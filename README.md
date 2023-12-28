@@ -1,4 +1,3 @@
-```
 # Deep Q-Network (DQN) Implementation for CartPole
 
 This documentation provides a comprehensive guide to implementing a Deep Q-Network (DQN) for solving the CartPole environment using PyTorch and OpenAI Gym. DQN is a reinforcement learning algorithm specifically designed for environments with discrete action spaces and continuous state spaces.
@@ -82,4 +81,3 @@ plt.show()
 ## Conclusion
 
 This DQN implementation for CartPole is a comprehensive and flexible framework, allowing for extensive experimentation and customization in reinforcement learning tasks.
-```
